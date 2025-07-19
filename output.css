@@ -1,0 +1,11 @@
+/* Minimal Tailwind-style placeholder CSS */
+body { font-family: sans-serif; margin: 0; padding: 0; }
+.text-blue-600 { color: #2563eb; }
+.bg-white { background-color: #ffffff; }
+.text-gray-800 { color: #1f2937; }
+.text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
+.font-bold { font-weight: 700; }
+.min-h-screen { min-height: 100vh; }
+.flex { display: flex; }
+.items-center { align-items: center; }
+.justify-center { justify-content: center; }
